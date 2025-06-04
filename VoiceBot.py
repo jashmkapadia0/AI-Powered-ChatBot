@@ -9,7 +9,7 @@ import pygame
 import threading
 
 # ---- CONFIG ----
-API_KEY = "AIzaSyCTRrApB61GH3hBYZDbv0zs6GeF0dr1IAk"  # Replace this
+API_KEY = ""  # Replace this
 DURATION = 5
 SAMPLERATE = 16000
 WIDTH, HEIGHT = 1366, 768
